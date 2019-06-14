@@ -4,7 +4,7 @@
       "q": "What is the capital of India",
       "sGif": "https://.... ",
       "sText": "X",
-      "qType": "MC",
+      "qType": "MCQ",
       "qI": "Select one right Answer"
     },
     "opts": [
@@ -20,7 +20,7 @@
       "q": "What is the capital of Pakistan",
       "sGif": "https://.... ",
       "sText": "X",
-      "qType": "MC",
+      "qType": "MCQ",
       "qI": "Select the right Answer"
     },
     "opts": [
@@ -29,14 +29,14 @@
       { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
       { "name": "Columbo", "sGif": "https://.... ", "sText": "X" }
     ],
-    "ans": [1]
+    "ans": [0, 1]
   },
   {
     "qn": {
       "q": "which of the following are Oceans",
       "sGif": "https://.... ",
       "sText": "X",
-      "qType": "MAC",
+      "qType": "MACQ",
       "qI": "Select the right Answers"
     },
     "opts": [
