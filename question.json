@@ -29,7 +29,7 @@
       { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
       { "name": "Columbo", "sGif": "https://.... ", "sText": "X" }
     ],
-    "ans": [0, 1]
+    "ans": [1]
   },
   {
     "qn": {
