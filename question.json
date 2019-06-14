@@ -1,50 +1,50 @@
 [
   {
-    "q": {
+    "qn": {
       "q": "What is the capital of India",
       "sGif": "https://.... ",
       "sText": "X",
       "qType": "MC",
       "qI": "Select the right Answer"
     },
-    "o": [
+    "opts": [
       { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
       { "name": "India", "sGif": "https://.... ", "sText": "X" },
       { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
       { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
     ],
-    "a": [0, 1]
+    "ans": [0, 1]
   },
   {
-    "q": {
+    "qn": {
       "q": "What is the capital of Pakistan",
       "sGif": "https://.... ",
       "sText": "X",
       "qType": "MC",
       "qI": "Select the right Answer"
     },
-    "o": [
+    "opts": [
       { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
       { "name": "India", "sGif": "https://.... ", "sText": "X" },
       { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
       { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
     ],
-    "a": [0, 1]
+    "ans": [0, 1]
   },
   {
-    "q": {
+    "qn": {
       "q": "What is the capital of SriLanka",
       "sGif": "https://.... ",
       "sText": "X",
       "qType": "MC",
       "qI": "Select the right Answer"
     },
-    "o": [
+    "opts": [
       { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
       { "name": "India", "sGif": "https://.... ", "sText": "X" },
       { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
       { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
     ],
-    "a": [0, 1]
+    "ans": [0, 1]
   }
 ]
