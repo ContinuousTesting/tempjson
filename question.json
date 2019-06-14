@@ -5,15 +5,15 @@
       "sGif": "https://.... ",
       "sText": "X",
       "qType": "MC",
-      "qI": "Select the right Answer"
+      "qI": "Select one right Answer"
     },
     "opts": [
-      { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
-      { "name": "India", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Delhi", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" },
       { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
-      { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
+      { "name": "Columbo", "sGif": "https://.... ", "sText": "X" }
     ],
-    "ans": [0, 1]
+    "ans": [0]
   },
   {
     "qn": {
@@ -24,26 +24,26 @@
       "qI": "Select the right Answer"
     },
     "opts": [
-      { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
-      { "name": "India", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Delhi", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" },
       { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
-      { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
+      { "name": "Columbo", "sGif": "https://.... ", "sText": "X" }
     ],
     "ans": [0, 1]
   },
   {
     "qn": {
-      "q": "What is the capital of SriLanka",
+      "q": "which of the following are Oceans",
       "sGif": "https://.... ",
       "sText": "X",
-      "qType": "MC",
-      "qI": "Select the right Answer"
+      "qType": "MAC",
+      "qI": "Select the right Answers"
     },
     "opts": [
-      { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
-      { "name": "India", "sGif": "https://.... ", "sText": "X" },
-      { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
-      { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
+      { "name": "Pacific", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Indian", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Alaska", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Bay of Bengal", "sGif": "https://.... ", "sText": "X" }
     ],
     "ans": [0, 1]
   }
