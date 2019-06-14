@@ -7,13 +7,13 @@
       "qType": "MC",
       "qI": "Select the right Answer"
     },
-    "o": {
-      "o1": { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
-      "o2": { "name": "India", "sGif": "https://.... ", "sText": "X" },
-      "o3": { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
-      "o4": { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
-    },
-    "a": ["o1"]
+    "o": [
+      { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
+      { "name": "India", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
+    ],
+    "a": [0, 1]
   },
   {
     "q": {
@@ -23,13 +23,13 @@
       "qType": "MC",
       "qI": "Select the right Answer"
     },
-    "o": {
-      "o1": { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
-      "o2": { "name": "India", "sGif": "https://.... ", "sText": "X" },
-      "o3": { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
-      "o4": { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
-    },
-    "a": ["o1"]
+    "o": [
+      { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
+      { "name": "India", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
+    ],
+    "a": [0, 1]
   },
   {
     "q": {
@@ -39,12 +39,12 @@
       "qType": "MC",
       "qI": "Select the right Answer"
     },
-    "o": {
-      "o1": { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
-      "o2": { "name": "India", "sGif": "https://.... ", "sText": "X" },
-      "o3": { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
-      "o4": { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
-    },
-    "a": ["o1"]
+    "o": [
+      { "name": "Pakistan", "sGif": "https://.... ", "sText": "X" },
+      { "name": "India", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Paris", "sGif": "https://.... ", "sText": "X" },
+      { "name": "Islamabad", "sGif": "https://.... ", "sText": "X" }
+    ],
+    "a": [0, 1]
   }
 ]
