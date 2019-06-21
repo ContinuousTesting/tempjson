@@ -45,6 +45,6 @@
       { "name": "Alaska", "sGif": "https://.... ", "sText": "X" },
       { "name": "Bay of Bengal", "sGif": "https://.... ", "sText": "X" }
     ],
-    "ans": [0, 1]
+    "ans": [0]
   }
 ]
